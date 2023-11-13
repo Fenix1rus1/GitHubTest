@@ -1,9 +1,10 @@
 body{
-    background-color:antiquewhite;
+    background-color:burlywood;
 }
 .div_header{
     background-color: rgb(97, 97, 97);
-    color: azure;
+    color: pink;
+    text-decoration: uppercase;
     border-radius: 10px;
     padding-left: 20px;
     border: 2px solid azure;
