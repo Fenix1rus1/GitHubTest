@@ -1,0 +1,10 @@
+body{
+    background-color:antiquewhite;
+}
+.div_header{
+    background-color: rgb(97, 97, 97);
+    color: azure;
+    border-radius: 10px;
+    padding-left: 20px;
+    border: 2px solid azure;
+}
